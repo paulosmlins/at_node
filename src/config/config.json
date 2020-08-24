@@ -1,0 +1,14 @@
+{
+  "development": {
+    "storage": "./dbListaTrefas.sqlite3",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "storage": "./dbListaTrefas.sqlite3",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage": "./dbListaTrefas.sqlite3",
+    "dialect": "sqlite"
+  }
+}
